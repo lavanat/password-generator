@@ -28,7 +28,7 @@ var generatePassword = function () {
     alert("You did not choose any character types.")
   } else {
     // Make sure the password length is valid
-  var passwordLength = Number(prompt("Enter a number between 8 and 128 for the length of your password."));
+    var passwordLength = Number(prompt("Enter a number between 8 and 128 for the length of your password."));
     if (!(passwordLength >= 8 && passwordLength <= 128)) {
       alert("You did not choose a valid password length.");
     } else {
