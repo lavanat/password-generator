@@ -11,10 +11,10 @@ You can use this page to randomly generate a password.
 
 ## Link to Deployed Application
 
-
+https://lavanat.github.io/password-generator/
 
 ## Screenshot of Deployed Application
-
+![Password Generator Screenshot](./Password-Generator-Screenshot.png)
 
 ## License
 
